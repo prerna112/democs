@@ -1,0 +1,40 @@
+!<arch>
+even.c/         0           0     0     644     56        `
+int even(int n)
+{
+if(n%2==0)
+return 1;
+else
+return 0;
+}
+prime.c/        0           0     0     644     143       `
+int prime(int n)
+{
+int i,check;
+	for(i=2;i<n;i++)
+	{
+		if(n%i==0)
+		{
+			check=0;
+			break;
+		}
+	}
+	if(check==0)
+	return 1;
+	else
+	return 0;
+}
+
+factor.c/       0           0     0     644     88        `
+int factor(int n)
+{
+int i,j=0,a[n];
+for(i=1;i<=n;i++)
+{
+if(n%i==0)
+{
+a[j]=i;
+j++;
+}
+}
+}

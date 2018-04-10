@@ -1,0 +1,22 @@
+openConnection: connect: No such file or directory
+cannot connect to brltty at :0
+upstart: update-notifier-crash (/var/crash/_usr_bin_appstreamcli.0.crash) main process (2690) terminated with status 1
+upstart: update-notifier-crash (/var/crash/_usr_sbin_thermald.0.crash) main process (2691) terminated with status 1
+upstart: unity-settings-daemon main process ended, respawning
+upstart: unity7 main process ended, respawning
+upstart: bamfdaemon main process (2696) killed by TERM signal
+upstart: hud main process (2797) killed by HUP signal
+upstart: gnome-session (Unity) main process (2811) killed by HUP signal
+upstart: unity-panel-service main process (2818) killed by HUP signal
+upstart: indicator-messages main process (2850) killed by HUP signal
+upstart: indicator-bluetooth main process (2851) killed by TERM signal
+upstart: indicator-power main process (2852) killed by TERM signal
+upstart: indicator-datetime main process (2861) killed by TERM signal
+upstart: indicator-keyboard main process (2862) killed by HUP signal
+upstart: indicator-printers main process (2865) killed by TERM signal
+upstart: indicator-session main process (2866) killed by TERM signal
+upstart: indicator-application main process (2890) killed by TERM signal
+upstart: unity-settings-daemon main process (5211) killed by TERM signal
+upstart: unity7 pre-start process (5212) killed by TERM signal
+upstart: Disconnected from notified D-Bus bus
+upstart: indicator-sound main process (2864) killed by HUP signal

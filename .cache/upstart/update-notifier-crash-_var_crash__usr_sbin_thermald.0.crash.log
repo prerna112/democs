@@ -1,0 +1,4 @@
+Tue Apr 10 11:22:15 IST 2018 crash report /var/crash/_usr_sbin_thermald.0.crash detected
+thermald
+appstreamcli
+Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.

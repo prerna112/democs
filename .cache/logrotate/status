@@ -1,0 +1,21 @@
+logrotate state -- version 2
+"/home/geu/.cache/upstart/gpg-agent.log" 2018-4-10-11:21:25
+"/home/geu/.cache/upstart/at-spi2-registryd.log" 2018-4-10-11:21:25
+"/home/geu/.cache/upstart/unity-settings-daemon.log" 2018-4-10-11:21:25
+"/home/geu/.cache/upstart/indicator-keyboard.log" 2018-4-7-10:28:41
+"/home/geu/.cache/upstart/window-stack-bridge.log" 2018-4-10-11:21:25
+"/home/geu/.cache/upstart/update-notifier-release.log" 2018-4-10-11:21:25
+"/home/geu/.cache/upstart/update-notifier-crash-_var_crash__usr_sbin_thermald.0.crash.log" 2018-4-10-11:21:25
+"/home/geu/.cache/upstart/gnome-keyring-ssh.log" 2018-4-10-11:21:25
+"/home/geu/.cache/upstart/upstart-event-bridge.log" 2018-4-10-11:21:25
+"/home/geu/.cache/upstart/hud.log" 2018-4-10-11:21:25
+"/home/geu/.cache/upstart/indicator-printers.log" 2018-4-7-10:28:41
+"/home/geu/.cache/upstart/unity-panel-service-lockscreen.log" 2018-4-6-11:48:58
+"/home/geu/.cache/upstart/bamfdaemon.log" 2018-4-10-11:21:25
+"/home/geu/.cache/upstart/update-notifier-crash-_var_crash__usr_bin_unattended-upgrade.0.crash.log" 2018-4-10-11:0:0
+"/home/geu/.cache/upstart/ssh-agent.log" 2018-4-10-11:21:25
+"/home/geu/.cache/upstart/indicator-sound.log" 2018-4-10-11:21:25
+"/home/geu/.cache/upstart/dbus.log" 2018-4-10-11:21:25
+"/home/geu/.cache/upstart/unity-panel-service.log" 2018-4-10-11:21:25
+"/home/geu/.cache/upstart/unity7.log" 2018-4-10-11:21:25
+"/home/geu/.cache/upstart/update-notifier-crash-_var_crash__usr_bin_appstreamcli.0.crash.log" 2018-4-10-11:21:25

@@ -1,0 +1,7 @@
+openConnection: connect: No such file or directory
+cannot connect to brltty at :0
+upstart: update-notifier-crash (/var/crash/_usr_bin_appstreamcli.0.crash) main process (1528) terminated with status 1
+upstart: update-notifier-crash (/var/crash/_usr_sbin_thermald.0.crash) main process (1529) terminated with status 1
+upstart: update-notifier-crash (/var/crash/_usr_bin_unattended-upgrade.0.crash) main process (18382) terminated with status 1
+upstart: update-notifier-crash (/var/crash/_usr_sbin_thermald.0.crash) main process (2642) terminated with status 1
+upstart: update-notifier-crash (/var/crash/_usr_bin_appstreamcli.0.crash) main process (2641) terminated with status 1

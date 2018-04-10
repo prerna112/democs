@@ -1,0 +1,5 @@
+Tue Apr 10 11:23:43 IST 2018 crash report /var/crash/_usr_bin_unattended-upgrade.0.crash detected
+unattended-upgrade
+thermald
+appstreamcli
+Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
